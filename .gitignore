@@ -1,0 +1,6 @@
+/dataset/*
+pix2code_dataset.zip
+pix2code_paper.pdf
+__pycache__
+/outputs/pix2code.keras
+model

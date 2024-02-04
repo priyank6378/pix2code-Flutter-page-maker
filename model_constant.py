@@ -1,0 +1,4 @@
+# constants
+IMG_SIZE = (256, 256)
+VOCAB_SIZE = 20
+TOKEN_LEN = 48
