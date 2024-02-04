@@ -18,7 +18,9 @@ python3 flutter_page_maker.py <input_image_path> <output_folder_path>
 ## Example
 * <b>Input Image</b> :  
 <img src='example/test.png' width=200>  
-* <b>Generated Code</b> :  
+
+* <b>Generated Code</b> :    
 stack { row { label , slider , label } row { check } row { switch } row { check } row { label , slider , label } row { check } row { label , btn } } footer { btn-home , btn-dashboard , btn-dashboard }  
+
 * <b>Generated Flutter Page</b> :   
 <img src='example/test_out.png' width=200>  
